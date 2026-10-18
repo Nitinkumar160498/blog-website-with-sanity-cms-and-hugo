@@ -1,4 +1,4 @@
-baseURL = "https://navex-blog-cms.netlify.app/"
+baseURL = "https://blog-website-with-sanity-cms-and-hugo.netlify.app/"
 title = "blog-website-with-sanity-cms-and-hugo"
 enableRobotsTXT = true
 locale = "en-US"
