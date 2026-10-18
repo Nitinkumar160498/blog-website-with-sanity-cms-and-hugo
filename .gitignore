@@ -10,5 +10,4 @@ resources/_gen/
 !.env.example
 sanity-studio/dist/
 
-assets/css/*.css
 assets/css/*.css.map
