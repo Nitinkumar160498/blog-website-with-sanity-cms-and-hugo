@@ -1,4 +1,4 @@
-# NavEX Blog CMS
+# Sanity Hugo Blog Website
 
 A responsive blog website built with Sanity Studio and Hugo.
 

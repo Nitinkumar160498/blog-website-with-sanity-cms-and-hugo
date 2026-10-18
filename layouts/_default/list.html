@@ -4,7 +4,15 @@
 
   {{ range .Pages }}
   <article class="post-card">
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <h2>
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none">
+          <path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round"></path>
+        </svg>
+      </a>
+    </h2>
     {{ with .Description }}
     <p>{{ . }}</p>
     {{ end }}
