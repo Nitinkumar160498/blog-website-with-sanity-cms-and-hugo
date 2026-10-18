@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="container page-section">
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Pages }}
+  <ul class="term-list">
+    {{ range . }}
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> <span>({{ len .Pages }})</span></li>
+    {{ end }}
+  </ul>
+  {{ else }}
+  <p>Nothing to show yet.</p>
+  {{ end }}
+</section>
+{{ end }}

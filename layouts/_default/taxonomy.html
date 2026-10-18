@@ -1,0 +1,18 @@
+﻿{{ define "main" }}
+<section class="container page-section">
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Pages }}
+  {{ range . }}
+  <article class="post-card">
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ with .Description }}
+    <p>{{ . }}</p>
+    {{ end }}
+  </article>
+  {{ end }}
+  {{ else }}
+  <p>No blog posts found in this section yet.</p>
+  {{ end }}
+</section>
+{{ end }}

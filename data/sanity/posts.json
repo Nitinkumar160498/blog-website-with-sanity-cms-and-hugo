@@ -1,0 +1,914 @@
+[
+  {
+    "author": {
+      "bio": "Nitin is a technology writer passionate about web development, JavaScript, and modern frontend technologies. He enjoys sharing practical tips and insights to help developers build better web experiences.",
+      "name": "Nitin Kumar Chilhate",
+      "profileImage": null,
+      "slug": "nitin-kumar-chilhate"
+    },
+    "body": [
+      {
+        "_key": "7838ddb12993",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "70ea36fea4e8",
+            "_type": "span",
+            "marks": [],
+            "text": "Introduction"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "5db8f7e01882",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6714bf22214f",
+            "_type": "span",
+            "marks": [],
+            "text": "A website is often one of the first places people visit when learning about a business. A clear and professional website helps visitors understand what a company offers and how they can get in touch."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f01ef7a2079b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "12c1a1f22f8a",
+            "_type": "span",
+            "marks": [],
+            "text": "Build Trust with Customers"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "4c1bd4d0ef11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "290145c98266",
+            "_type": "span",
+            "marks": [],
+            "text": "A well-organized website provides useful information about a business, its services, and its contact details. This can help potential customers feel more confident about exploring the company."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e9080acd76c2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "86d67f842b9d",
+            "_type": "span",
+            "marks": [],
+            "text": "Reach a Wider Audience"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "6f569cfcbaa2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "102dcdddc87b",
+            "_type": "span",
+            "marks": [],
+            "text": "Unlike a physical store that serves a particular location, a website can help a business connect with people in different cities and regions."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b6a923303843",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "22bab52925fa",
+            "_type": "span",
+            "marks": [],
+            "text": "Showcase Products and Services"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "4bc73ad2f1c2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "640c763da5e5",
+            "_type": "span",
+            "marks": [],
+            "text": "Businesses can use their websites to explain their services, display products, share customer feedback, and answer common questions."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "622efa4fb2d9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cff154083d04",
+            "_type": "span",
+            "marks": [],
+            "text": "Make Information Easy to Find"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "e6c69b86f36a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "58a910d1c7db",
+            "_type": "span",
+            "marks": [],
+            "text": "Clear navigation, readable content, and mobile-friendly pages help visitors find what they need without unnecessary effort."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "643dda1e4a3a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "726372417d6c",
+            "_type": "span",
+            "marks": [],
+            "text": "Keep Your Website Updated"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "0a6221b28445",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "afa9e3d1d991",
+            "_type": "span",
+            "marks": [],
+            "text": "Regularly updating business information, contact details, and service descriptions helps ensure visitors receive accurate information."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "0ed593784b70",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c7a6987d89b7",
+            "_type": "span",
+            "marks": [],
+            "text": "Conclusion"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "af353eb4a8a0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c8e33eb03b14",
+            "_type": "span",
+            "marks": [],
+            "text": "A good website can help a business build credibility, communicate with customers, and grow its online presence. By focusing on useful content, clear navigation, and a good visitor experience, businesses can make their websites more effective."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "description": null,
+      "slug": "business",
+      "title": "Business"
+    },
+    "excerpt": "Learn why a professional website helps businesses build trust, reach more customers, showcase their services, and create a stronger online presence.",
+    "heroImage": "https://cdn.sanity.io/images/tlzcb6d4/production/928c2c2cdc67a507253902630c28d4919917d32c-2426x1728.jpg",
+    "publishDate": "2026-10-17T18:52:00.000Z",
+    "slug": "why-a-good-website-matters-for-every-business",
+    "title": "Why a Good Website Matters for Every Business"
+  },
+  {
+    "author": {
+      "bio": "Nitin is a technology writer passionate about web development, JavaScript, and modern frontend technologies. He enjoys sharing practical tips and insights to help developers build better web experiences.",
+      "name": "Nitin Kumar Chilhate",
+      "profileImage": null,
+      "slug": "nitin-kumar-chilhate"
+    },
+    "body": [
+      {
+        "_key": "d70785299790",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a339b613cb85",
+            "_type": "span",
+            "marks": [],
+            "text": "Introduction"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "eb15b57ea6b3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "001f21f81a97",
+            "_type": "span",
+            "marks": [],
+            "text": "Reading is a simple habit that can make a big difference in everyday life. Whether you enjoy books, articles, or online blogs, reading helps you explore new ideas and learn something new."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "954c67f3f305",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "76e927e11212",
+            "_type": "span",
+            "marks": [],
+            "text": "Expand Your Knowledge"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f543196d9761",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "8f55b9f08a93",
+            "_type": "span",
+            "marks": [],
+            "text": "Reading introduces you to different subjects, experiences, and perspectives. Even a few pages each day can help you gradually build your knowledge."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "551a79338aff",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "2ee7d5eee4c9",
+            "_type": "span",
+            "marks": [],
+            "text": "Improve Focus and Concentration"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "7b684249ac6e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c66fd00726b7",
+            "_type": "span",
+            "marks": [],
+            "text": "Spending time reading encourages you to focus on one thing at a time. Making reading part of your daily routine can help you create more opportunities for uninterrupted concentration."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "6978d9095cf2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fd6747a0389c",
+            "_type": "span",
+            "marks": [],
+            "text": "Reduce Everyday Stress"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "ef1de1224014",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "0f6a5a0330ea",
+            "_type": "span",
+            "marks": [],
+            "text": "Enjoying a good book or an interesting article can provide a relaxing break from daily responsibilities. It gives your mind an opportunity to slow down and focus on something enjoyable."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "eadc592e311d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4402c01e06fb",
+            "_type": "span",
+            "marks": [],
+            "text": "Build a Reading Habit"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "c040a9c4a45e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "967a449a93f0",
+            "_type": "span",
+            "marks": [],
+            "text": "Start with just 10 minutes a day. Choose topics you enjoy, keep a book nearby, and gradually increase your reading time as the habit becomes easier."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "677cc06e2dc1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "03aef2a2f3fa",
+            "_type": "span",
+            "marks": [],
+            "text": "Conclusion"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "3b5fb8e173a8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6ad081f8eac8",
+            "_type": "span",
+            "marks": [],
+            "text": "Daily reading is a simple way to support learning, concentration, and personal growth. Start small, choose interesting material, and make reading a regular part of your routine."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "description": null,
+      "slug": "lifestyle",
+      "title": "Lifestyle"
+    },
+    "excerpt": "Discover how daily reading can improve your knowledge, strengthen your focus, reduce stress, and help you develop a lifelong learning habit.",
+    "heroImage": "https://cdn.sanity.io/images/tlzcb6d4/production/58b3bd0732ad90e529082b19ac621472fc72a113-5957x3493.jpg",
+    "publishDate": "2026-10-17T17:50:00.000Z",
+    "slug": "the-benefits-of-reading-every-day",
+    "title": "The Benefits of Reading Every Day"
+  },
+  {
+    "author": {
+      "bio": "Nitin is a technology writer passionate about web development, JavaScript, and modern frontend technologies. He enjoys sharing practical tips and insights to help developers build better web experiences.",
+      "name": "Nitin Kumar Chilhate",
+      "profileImage": null,
+      "slug": "nitin-kumar-chilhate"
+    },
+    "body": [
+      {
+        "_key": "a6d584a2c44d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "41a738715c12",
+            "_type": "span",
+            "marks": [],
+            "text": "Introduction"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "e2fb1d3f8457",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "157adfb9a15b",
+            "_type": "span",
+            "marks": [],
+            "text": "Being productive does not mean staying busy all day. It means using your time wisely and focusing on the tasks that matter most."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b75ea86f3491",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3e95bcc858fe",
+            "_type": "span",
+            "marks": [],
+            "text": "Plan Your Day"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "2fc6b1c7cb3d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cc81b36bf574",
+            "_type": "span",
+            "marks": [],
+            "text": "Start each morning by identifying the most important tasks you want to complete. A simple to-do list can help you stay organized and avoid forgetting important work."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "c0b4810fe30f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "19827c9777db",
+            "_type": "span",
+            "marks": [],
+            "text": "Focus on One Task at a Time"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "cb5747132b9a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "778633a7c70a",
+            "_type": "span",
+            "marks": [],
+            "text": "Trying to do several things simultaneously can make it harder to concentrate. Focus on one task before moving to the next whenever possible."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "ca326c23d062",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3695112d64d4",
+            "_type": "span",
+            "marks": [],
+            "text": "Take Regular Breaks"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "072988f72335",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1da6b358e02f",
+            "_type": "span",
+            "marks": [],
+            "text": "Short breaks can help you refresh your mind and return to work with better focus. Balance focused work with enough rest throughout the day."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "798dae089ca0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "92cd43fda1b7",
+            "_type": "span",
+            "marks": [],
+            "text": "Reduce Distractions"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "3d9e3bf788de",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c6bfa69c8877",
+            "_type": "span",
+            "marks": [],
+            "text": "Keep your workspace organized and silence unnecessary notifications while working. Small changes to your environment can make it easier to concentrate."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "6bf46fc18379",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c6123b6e9a99",
+            "_type": "span",
+            "marks": [],
+            "text": "Conclusion"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "06e4e0ba0053",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f7bb50387e71",
+            "_type": "span",
+            "marks": [],
+            "text": "Improving productivity starts with small, consistent habits. By planning your day, focusing on important tasks, and taking regular breaks, you can work more effectively and maintain a healthier routine."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "description": null,
+      "slug": "productivity",
+      "title": "Productivity"
+    },
+    "excerpt": "Learn simple and practical ways to manage your time, stay focused, organize daily tasks, and accomplish more without feeling overwhelmed.",
+    "heroImage": "https://cdn.sanity.io/images/tlzcb6d4/production/591acb6be230a8c1597be7ebf7a7ae6e907e687c-6000x4000.jpg",
+    "publishDate": "2026-10-17T17:38:00.000Z",
+    "slug": "simple-ways-to-improve-your-productivity",
+    "title": "Simple Ways to Improve Your Productivity"
+  },
+  {
+    "author": {
+      "bio": "Nitin is a technology writer passionate about web development, JavaScript, and modern frontend technologies. He enjoys sharing practical tips and insights to help developers build better web experiences.",
+      "name": "Nitin Kumar Chilhate",
+      "profileImage": null,
+      "slug": "nitin-kumar-chilhate"
+    },
+    "body": [
+      {
+        "_key": "3d73e1106499",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "178dec119b44",
+            "_type": "span",
+            "marks": [],
+            "text": "Introduction"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "9c31f9bd7868",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "94df65ce3253",
+            "_type": "span",
+            "marks": [],
+            "text": "Technology has become an important part of our daily lives. We use it to communicate with friends, complete work, learn new skills, and manage everyday tasks."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "36ab14df9c47",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "d4486e1e458e",
+            "_type": "span",
+            "marks": [],
+            "text": "Technology and Communication"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "8ce49c52e9fd",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4a5908dc718a",
+            "_type": "span",
+            "marks": [],
+            "text": "Messaging apps and video calls allow people to stay connected regardless of distance. Communication has become faster and more convenient than ever before."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "712114a4736c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "b5ee4e01f95c",
+            "_type": "span",
+            "marks": [],
+            "text": "Learning Made Easier"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "4caac4b338ed",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c533a1e7b331",
+            "_type": "span",
+            "marks": [],
+            "text": "Online courses, educational websites, and digital libraries give people access to information from almost anywhere. Anyone with an internet connection can explore new subjects and develop useful skills."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "98a7f4d01abd",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "39f1c1dc0de9",
+            "_type": "span",
+            "marks": [],
+            "text": "Technology at Work"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "89900ecd10a8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f245be7da5e9",
+            "_type": "span",
+            "marks": [],
+            "text": "Digital tools help teams organize tasks, share documents, manage projects, and communicate more efficiently. These tools can save time and make collaboration easier."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "dd0afc940895",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "68d696df591d",
+            "_type": "span",
+            "marks": [],
+            "text": "Conclusion"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "ada578cfbf9b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "4c4d2b851fc6",
+            "_type": "span",
+            "marks": [],
+            "text": "Technology continues to change how we live and work. When used thoughtfully, it can save time, improve communication, and make learning more accessible."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "description": "Articles about technology, software development, and modern web applications.",
+      "slug": "technology",
+      "title": "Technology"
+    },
+    "excerpt": "Explore how modern technology makes everyday activities easier, from communication and online shopping to education and workplace productivity.",
+    "heroImage": "https://cdn.sanity.io/images/tlzcb6d4/production/ad321f18f4d158b5911924c3470a37478c30264b-5184x3456.jpg",
+    "publishDate": "2026-10-17T17:26:00.000Z",
+    "slug": "how-technology-makes-everyday-life-easier",
+    "title": "How Technology Makes Everyday Life Easier"
+  },
+  {
+    "author": {
+      "bio": "Nitin is a technology writer passionate about web development, JavaScript, and modern frontend technologies. He enjoys sharing practical tips and insights to help developers build better web experiences.",
+      "name": "Nitin Kumar Chilhate",
+      "profileImage": null,
+      "slug": "nitin-kumar-chilhate"
+    },
+    "body": [
+      {
+        "_key": "6a33c07dd065",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ea437d428428",
+            "_type": "span",
+            "marks": [],
+            "text": "Introduction"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "53ce8edabf6c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "27db7264bdf5",
+            "_type": "span",
+            "marks": [],
+            "text": "Web development plays an important role in today's digital world. From business websites to online stores, websites help people share information, connect with customers, and grow their businesses."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a347101e3d9d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6743cebbcca3",
+            "_type": "span",
+            "marks": [],
+            "text": "Why Is Web Development Important?"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "2fe3b1ea2fd1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "253d8d077dcc",
+            "_type": "span",
+            "marks": [],
+            "text": "Web development allows businesses and individuals to create an online presence. A well-designed website helps people find information, understand services, and connect with a brand."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "ed6d490250a3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "69489a93800d",
+            "_type": "span",
+            "marks": [],
+            "text": "Benefits of Learning Web Development"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "84d649ffcb2a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6e6e2f398c73",
+            "_type": "span",
+            "marks": [],
+            "text": "Learning web development can help you build personal projects, create business websites, explore career opportunities, and understand how the internet works."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "532b079e4bc4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "775e034cd59e",
+            "_type": "span",
+            "marks": [],
+            "text": "How Beginners Can Get Started"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "9612e0eea8b7",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "64b6707b1430",
+            "_type": "span",
+            "marks": [],
+            "text": "Start by learning the basics of websites and how webpages are structured. Practice by creating a simple personal website and gradually improve it as you gain experience."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "668759249dee",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1ae0a66a9791",
+            "_type": "span",
+            "marks": [],
+            "text": "Conclusion"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "e4ad4a3bb496",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "1f9310d70bf0",
+            "_type": "span",
+            "marks": [],
+            "text": "Web development is a useful skill for anyone interested in technology. With regular practice, patience, and curiosity, beginners can gradually develop the knowledge needed to build useful websites."
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "description": "Learn web development with tutorials and guides on HTML, CSS, JavaScript, and frontend technologies to build modern, responsive websites.",
+      "slug": "web-development",
+      "title": "Web Development"
+    },
+    "excerpt": "Discover why web development is a valuable skill, how it helps you build websites, and how beginners can start their journey in the digital world.",
+    "heroImage": "https://cdn.sanity.io/images/tlzcb6d4/production/0827dea4e9ba46430518002cd0047eefcb6d17ad-6048x4032.jpg",
+    "publishDate": "2026-10-17T14:24:00.000Z",
+    "slug": "the-importance-of-learning-web-development",
+    "title": "The Importance of Learning Web Development"
+  }
+]

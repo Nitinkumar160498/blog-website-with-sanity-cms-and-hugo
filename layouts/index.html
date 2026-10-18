@@ -1,0 +1,29 @@
+﻿{{ define "main" }}
+{{ $posts := sort hugo.Data.sanity.posts "publishDate" "desc" }}
+
+<section class="hero">
+  <div class="hero__inner">
+    <h1>Explore Our Blog</h1>
+    <p>Fresh articles, useful tips, and insights.</p>
+
+    <form id="site-search-form" class="hero__search" role="search" action="{{ `/` | relURL }}" method="get">
+      <svg aria-hidden="true" viewBox="0 0 24 24" fill="none">
+        <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
+        <path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+      <label class="sr-only" for="site-search">Search</label>
+      <input type="search" id="site-search" name="q" placeholder="Search">
+    </form>
+  </div>
+  <span class="hero__stripe" aria-hidden="true"></span>
+</section>
+
+{{ partial "post-grid.html" $posts }}
+
+<div id="search-no-results" class="empty-state is-hidden">
+  <p>No posts match your search. Try a different keyword.</p>
+</div>
+
+{{ $searchScript := resources.Get "js/site-search.js" | minify | fingerprint }}
+<script src="{{ $searchScript.RelPermalink }}" integrity="{{ $searchScript.Data.Integrity }}" defer></script>
+{{ end }}

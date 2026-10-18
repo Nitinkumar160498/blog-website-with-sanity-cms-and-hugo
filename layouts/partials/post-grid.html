@@ -1,0 +1,59 @@
+{{- $posts := . -}}
+
+<section class="post-grid-section">
+  {{ if $posts }}
+  <div class="post-grid">
+    {{ range $posts }}
+    {{ $post := . }}
+    <article class="post-tile">
+      <a class="post-tile__media" href="{{ printf "/posts/%s/" $post.slug }}" aria-label="Read {{ $post.title }}">
+        {{ if $post.heroImage }}
+        <img src="{{ $post.heroImage }}" alt="{{ $post.title }}" loading="lazy">
+        {{ else }}
+        <span class="post-tile__placeholder" aria-hidden="true">
+          {{ if $post.category }}{{ substr $post.category.title 0 1 }}{{ else }}N{{ end }}
+        </span>
+        {{ end }}
+      </a>
+
+      <div class="post-tile__body">
+        {{ with $post.category }}<span class="post-tile__category">{{ .title }}</span>{{ end }}
+
+        <h2 class="post-tile__title">
+          <a href="{{ printf "/posts/%s/" $post.slug }}">{{ $post.title }}</a>
+          <svg aria-hidden="true" viewBox="0 0 24 24" fill="none">
+            <path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round" />
+          </svg>
+        </h2>
+
+        {{ with $post.excerpt }}<p class="post-tile__excerpt">{{ . }}</p>{{ end }}
+
+        <div class="post-tile__meta">
+          {{ if and $post.author $post.author.profileImage }}
+          <img class="post-tile__avatar" src="{{ $post.author.profileImage }}" alt="{{ $post.author.name }}">
+          {{ else }}
+          <span class="post-tile__avatar" aria-hidden="true">
+            {{ if $post.author }}{{ substr $post.author.name 0 1 }}{{ else }}N{{ end }}
+          </span>
+          {{ end }}
+          <span class="post-tile__byline">
+            <span class="post-tile__author-name">
+              {{ if $post.author }}{{ $post.author.name }}{{ else }}NavEX Editorial{{ end }}
+            </span>
+            {{ with $post.publishDate }}
+            <time class="post-tile__date" datetime="{{ . }}">{{ time.Format "2 Jan 2006" . }}</time>
+            {{ end }}
+          </span>
+        </div>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="empty-state">
+    <h3>Fresh ideas are on the way.</h3>
+    <p>There are no published articles yet. Please check back soon.</p>
+  </div>
+  {{ end }}
+</section>
