@@ -20,9 +20,3 @@ A responsive blog website built with Sanity Studio and Hugo.
 - Table of contents
 - Copy article link button
 - Accessible markup and keyboard focus styles
-
-## Prerequisites
-
-- Node.js and npm
-- Hugo Extended
-- Sass CLI
