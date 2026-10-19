@@ -320,14 +320,13 @@ main {
   color: #2b1455;
 }
 .post-tile__excerpt {
-  display: -webkit-box;
+  display: block;
   overflow: hidden;
+  max-height: 4.8em;
   margin: 0 0 20px;
   color: #6b7280;
   font-size: 15px;
   line-height: 1.6;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
 }
 .post-tile__meta {
   display: flex;
@@ -481,7 +480,7 @@ main {
 }
 @media (max-width: 600px) {
   .hero {
-    padding: 56px 20px 88px;
+    padding: 24px;
   }
   h1 {
     font-size: 35px;

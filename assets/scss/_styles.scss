@@ -353,14 +353,13 @@ main {
   }
 
   &__excerpt {
-    display: -webkit-box;
+    display: block;
     overflow: hidden;
+    max-height: calc(1.6em * 3);
     margin: 0 0 20px;
     color: $color-muted;
     font-size: 15px;
     line-height: 1.6;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 3;
   }
 
   &__meta {
@@ -545,7 +544,7 @@ main {
 
 @media (max-width: 600px) {
   .hero {
-    padding: 56px 20px 88px;
+    padding: 24px;
   }
 
   h1 {
