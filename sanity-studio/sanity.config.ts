@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'Navex Blog CMS',
+  title: 'Sanity Hugo Blog CMS',
   projectId: 'tlzcb6d4',
   dataset: 'production',
 
